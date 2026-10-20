@@ -1,0 +1,6 @@
+TRIS mage { "skin_head": 31104, "eye_0": 2240, "lashes": 512, "eye_1": 2240, "dress": 15552, "robe": 17952, "skin_body": 3200, "sash": 6240, "gold": 1680, "gem": 672, "haircap": 3744, "hair": 46800 }
+TRIS paladin { "skin_head": 31104, "eye_0": 2240, "lashes": 512, "eye_1": 2240, "under": 17664, "steel": 42480, "leather": 10208, "gold": 1376, "tabard": 2880, "haircap": 3744, "hair": 15120, "braid": 18480 }
+TRIS ranger { "skin_head": 32544, "eye_0": 2240, "lashes": 512, "eye_1": 2240, "shirt": 6912, "leather": 11120, "leather2": 12240, "pants": 6912, "steel": 3112, "cloak": 6144, "wood": 168, "fletch": 252, "haircap": 3744, "hair": 23800 }
+BUILD mage ms=7858 tris=131936 timings={ "head": 3438, "outfit": 2166, "hair": 2109, "commit": 144 }
+BUILD paladin ms=11812 tris=148048 timings={ "head": 3514, "outfit": 6858, "hair": 1246, "commit": 194 }
+BUILD ranger ms=8685 tris=111940 timings={ "head": 3850, "outfit": 3544, "hair": 1169, "commit": 122 }

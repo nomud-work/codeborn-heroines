@@ -1,6 +1,8 @@
 # Codeborn Heroines
 
-![Codeborn Heroines lineup](media/lineup.png)
+![Animated turntable of the paladin, mage and ranger, all built from code with zero asset files](media/codeborn-heroines.webp)
+
+Full-quality video: [media/turntable_720p.mp4](media/turntable_720p.mp4)
 
 Codeborn Heroines is three detailed 3D fantasy characters, an armoured paladin, a robed mage and a leather-clad ranger, built in Godot 4.7.2 with **zero asset files**. Bodies, faces, eyes, hair, clothing, armour, materials and the studio lighting are all generated from about 2,400 lines of GDScript, with no meshes, textures or images loaded from disk. It's a test of how far the code-only approach of [The Ninth Vigil](https://github.com/iamlukethedev/The-Ninth-Vigil) can go with realistic characters.
 
